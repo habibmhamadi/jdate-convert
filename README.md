@@ -18,7 +18,7 @@ Install via NPM/Yarn:
 - Second parameter is optional for formating the output.
 
 ```javascript
-import {toGregorian, toSolar} from 'jdate-convert'
+const {toGregorian, toSolar} = require('jdate-convert')
 
 
 const a = toGregorian('1400-04-24')                  //  2021-07-15
