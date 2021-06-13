@@ -23,8 +23,8 @@ const {toGregorian, toSolar} = require('jdate-convert')
 
 const a = toGregorian('1400-04-24')                  //  2021-07-15
 const b = toGregorian('1400-04-24', 'yyyy/MM/dd')    //  2021/07/15
-const c = toGregorian('1400/04/24', 'yyyy/MMM/dd')   //  2021/Jul/12
-const d = toGregorian('1400-04-24', 'yyyy/MMMM/dd')  //  2021/July/12
+const c = toGregorian('1400/04/24', 'yyyy/MMM/dd')   //  2021/Jul/15
+const d = toGregorian('1400-04-24', 'yyyy/MMMM/dd')  //  2021/July/15
 
 const a = toSolar('2021-06-14')                      //  1400-03-24
 const b = toSolar('2021-06-14', 'yyyy/MM/dd')        //  1400/03/24
