@@ -1,0 +1,28 @@
+{
+  "name": "jdate-convert",
+  "version": "1.0.0",
+  "description": "A javascript library for converting solar(jalali) date to gregorian date and vice versa.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habibmhamadi/jdate-convert.git"
+  },
+  "keywords": [
+    "date",
+    "jalali",
+    "converter",
+    "gregorian",
+    "shamsi",
+    "solar",
+    "calendar"
+  ],
+  "author": "Habib Mhamadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/habibmhamadi/jdate-convert/issues"
+  },
+  "homepage": "https://github.com/habibmhamadi/jdate-convert#readme"
+}

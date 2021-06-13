@@ -9,7 +9,7 @@ Solar(Jalali) date with support of date formats.
 
 Install via NPM/Yarn:
 
-`npm install date-converter`
+`npm install jdate-convert`
 
 
 ## Usage
@@ -18,7 +18,7 @@ Install via NPM/Yarn:
 - Second parameter is optional for formating the output.
 
 ```javascript
-import {toGregorian, toSolar} from 'date-converter'
+import {toGregorian, toSolar} from 'jdate-convert'
 
 
 const a = toGregorian('1400-04-24')                  //  2021-07-15
